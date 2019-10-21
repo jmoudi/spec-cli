@@ -43,7 +43,7 @@
     "xterm-addon-fit": "^0.1.0"
   },
   "scripts": {
-    "build": "gatsby build --prefix-paths",
+    "build": "gatsby build",
     "start": "gatsby develop",
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "patch-package"

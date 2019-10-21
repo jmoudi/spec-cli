@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/cli',
+  pathPrefix: '/',
   siteMetadata: {
     title: 'Prisma CLI Docs',
     directory: __dirname,
