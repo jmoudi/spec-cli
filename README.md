@@ -1,32 +1,13 @@
-# CLI
+# Prisma Framework CLI Design Document
 
-- Owner: @schickling
-- Stakeholders: @nikolasburk @timsuchanek
-- State: 
-  - Spec: Incomplete 💔
-  - Implementation: Unknown ❔
+This repository contains the source code for a web site with design documents for Prisma Framework CLI.  
+The CLI functionality specification itself lives at https://github.com/prisma/specs/tree/master/cli
 
-Prisma CLI is the central touch point for users with Prisma Framework.
+## View Online
 
----
+https://elated-mayer-13eeb5.netlify.com/
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-
-- [Design Document](#design-document)
-  - [View Online](#view-online)
-  - [Usage](#usage)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Design Document
-
-### View Online
-
-https://prisma-specs.netlify.com/cli/
-
-### Usage
+## Usage
 
 Edit [`src/pages/index.mdx`](src/pages/index.mdx) and run
 
