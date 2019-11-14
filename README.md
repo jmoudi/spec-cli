@@ -5,7 +5,7 @@ The CLI functionality specification itself lives at https://github.com/prisma/sp
 
 ## View Online
 
-https://elated-mayer-13eeb5.netlify.com/
+https://prisma-cli-spec.netlify.com/
 
 ## Usage
 
